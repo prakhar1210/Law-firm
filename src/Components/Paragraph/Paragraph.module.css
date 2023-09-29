@@ -1,0 +1,16 @@
+.paragraph {
+  width: 560px;
+  height: 99px;
+  margin-top: 20px;
+  margin-left: 20px;
+  opacity: 0.3;
+  font-family: "Inter" sans-serif;
+}
+
+.paragraph p {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+}

@@ -1,0 +1,19 @@
+.heading {
+  width: 571px;
+  height: 194px;
+  top: 250px;
+  left: 156px;
+  margin-top: 50px;
+  margin-left: 20px;
+  background: #ffffff;
+  font-family: "Inter" sans-serif;
+  background-color: #111111;
+}
+
+.heading h1 {
+  font-size: 66px;
+  font-weight: bold;
+  line-height: 97px;
+  letter-spacing: 0em;
+  text-align: left;
+}
